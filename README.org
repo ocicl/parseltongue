@@ -1,0 +1,10 @@
+* parseltongue
+
+A monadic parser combinator library for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/VincentToups/parseltongue.git   |
+| commit  | 468d1fd  |
+| systems | parseltongue |
+|---------+-------------------------------------------|
+
